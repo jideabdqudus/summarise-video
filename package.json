@@ -24,7 +24,7 @@
     "react-toastify": "^11.0.5",
     "tailwind-merge": "^3.3.1",
     "together-ai": "^0.16.0",
-    "youtube-transcript-api": "^3.0.0"
+    "youtube-transcript-api": "^3.0.6"
   },
   "devDependencies": {
     "@biomejs/biome": "2.0.4",
